@@ -1,3 +1,3 @@
-a = 20
+a = 2000
 b = 3000
-console.log(a + b)
+console.log(a * b)
